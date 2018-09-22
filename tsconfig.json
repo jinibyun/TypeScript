@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "outDir": "scripts/",
+        "sourceMap": true
+    }
+    // only when including specific files for compilation over javascript file
+    //,
+    //"files": [
+    //    "First.ts"
+    //]
+}
